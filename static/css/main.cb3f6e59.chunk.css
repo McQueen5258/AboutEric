@@ -42,7 +42,7 @@ body {
 #head-portrait {
     height: 250px;
     width: 250px;
-    background-image: url(/static/media/Eric.379b3677.jpg);
+    background-image: url(../media/Eric.379b3677.jpg);
     background-position: 50%;
     background-size: 375px;
     border-radius: 50%;
